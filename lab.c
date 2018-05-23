@@ -1,3 +1,5 @@
+// Ray's first C class
+
 #include <stdio.h>
 
 int main ( int argc, char* argv[] ) {
